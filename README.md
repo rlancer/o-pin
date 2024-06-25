@@ -5,3 +5,12 @@ O'Pin
 
 Pin a Chrome Profile so the wrong one doesn't open up unnessarily 
 
+[Latest release ](https://github.com/rlancer/o-pin/raw/main/archives/OPin.zip)
+
+* MacOS Only
+* Set it as your default browser
+* Sync your Chrome Profiles
+* Pin away
+
+ 
+
